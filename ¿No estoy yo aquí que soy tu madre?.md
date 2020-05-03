@@ -1,5 +1,5 @@
 
-# ¿No estoy yo aquí que sooy tu madrer?
+# ¿No estoy yo aquí que soy tu madre?
 ```
 
 C                   D             G

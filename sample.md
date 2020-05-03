@@ -61,9 +61,9 @@ William Sanchez.
 [Fuente](https://www.ministeriodemusica.net/2017/07/incomparable-canto-de-comunion.html])
 
 ### Origen
-[#católico](https://github.com/renovacion-sjb/musica/search?q=%23catolico&unscoped_q=%23catolico)
+[-católico](https://github.com/renovacion-sjb/musica/search?q=%23catolico&unscoped_q=%23catolico)
 
 ## Clasificación
-[#eucarístico](https://github.com/renovacion-sjb/musica/search?q=%23eucaristico&unscoped_q=%23eucaristico)
+[-eucarístico](https://github.com/renovacion-sjb/musica/search?q=%23eucaristico&unscoped_q=%23eucaristico)
 
 

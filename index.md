@@ -8,3 +8,6 @@
 [Escóndete en la mano del señor](https://github.com/renovacion-sjb/musica/blob/master/Esc%C3%B3ndete%20en%20la%20mano%20del%20se%C3%B1or.md)
 
 [Tu Señor](https://github.com/renovacion-sjb/musica/blob/master/Tu%20se%C3%B1or.md)
+
+## Adoración
+[Grande eres Señor](https://github.com/renovacion-sjb/musica/blob/master/Grande%20eres%20Se%C3%B1or.md)

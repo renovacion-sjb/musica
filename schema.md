@@ -6,7 +6,7 @@
 ### Autor
 
 ### Origen
-CATÓLICO | PROTESTANTE
+#católico | #protestante
 
 ## Clasificación
 #alabanza | #ambientación | #gracias | #espíritu-santo | #fe | #penitencia |#entrega |#sanación | #adoración | #eucarístico | #mariano

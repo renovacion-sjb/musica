@@ -38,7 +38,7 @@ con un grito que me pide tu amor
 ```
 
 ### Autor
-Grrupo revelación de Cristo, 
+Grupo revelación de Cristo, 
 [Fuente](https://ar.napster.com/artist/grupo-revelacion-de-cristo/album/ten-piedad/track/tu-senor-sabes-bien)
 
 ### Origen

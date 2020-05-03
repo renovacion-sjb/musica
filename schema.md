@@ -3,6 +3,10 @@
 
 ## Letra & acordes
 
+
+> Cambio de tono [sube a ?](https://github.com/renovacion-sjb/musica/edit/master/schema.md)
+
+
 ### Autor
 
 ### Origen

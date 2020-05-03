@@ -39,7 +39,7 @@ Minsterio de musica Ruah.
 [Fuente 2](http://testicanzoni.mtv.it/testi-Isaias-Hernandez-Cruz-feat.-Ruajh_32197823/testo-Escondete-en-las-Manos-del-Se%C3%B1or-63823712)
 
 ### Origen
-[católico](https://github.com/renovacion-sjb/musica/search?q=cat%C3%B3lico&unscoped_q=cat%C3%B3lico)
+[catolico](https://github.com/renovacion-sjb/musica/search?q=catolico&unscoped_q=catolico)
 
 ## Clasificación
 [fe](https://github.com/renovacion-sjb/musica/search?q=fe&unscoped_q=fe)

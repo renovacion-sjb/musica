@@ -46,4 +46,4 @@ Minsterio de musica Ruah.
 [esperanza](https://github.com/renovacion-sjb/musica/search?q=esperanza&unscoped_q=esperanza)
 [consuelo](https://github.com/renovacion-sjb/musica/search?q=consuelo&unscoped_q=consuelo)
 
-[Volver](https://github.com/renovacion-sjb/musica/blob/master/index.md)
+[Volver](index.md)

@@ -42,11 +42,11 @@ Grupo revelación de Cristo,
 [Fuente](https://ar.napster.com/artist/grupo-revelacion-de-cristo/album/ten-piedad/track/tu-senor-sabes-bien)
 
 ### Origen
-[católico](https://github.com/renovacion-sjb/musica/search?q=cat%C3%B3lico&unscoped_q=cat%C3%B3lico)
+[católico](https://github.com/renovacion-sjb/musica/search?q=catolico&unscoped_q=catolico)
 
 ## Clasificación
 [fe](https://github.com/renovacion-sjb/musica/search?q=fe&unscoped_q=fe)
 [esperanza](https://github.com/renovacion-sjb/musica/search?q=esperanza&unscoped_q=esperanza)
 [consuelo](https://github.com/renovacion-sjb/musica/search?q=consuelo&unscoped_q=consuelo)
 
-[Volver](https://github.com/renovacion-sjb/musica/blob/master/index.md)
+[Volver](index.md)

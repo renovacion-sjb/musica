@@ -53,4 +53,4 @@ Israel  Gonzalez, MNM México.
 ## Clasificación
 [adoracion](https://github.com/renovacion-sjb/musica/search?q=adoracion&unscoped_q=adoracion)
 
-[Volver](https://github.com/renovacion-sjb/musica/blob/master/index.md)
+[Volver](index.md)

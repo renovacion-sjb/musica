@@ -1,5 +1,5 @@
 ## Eucarísticos
-[Incomparable](Incomparable.md)
+[Incomparable](incomparable.md)
 
 ## Marianos
 [¿No estoy yo aquí que soy tu madre?](no-estoy-yo-aquí-que-soy-tu-madre.md)

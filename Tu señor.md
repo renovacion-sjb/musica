@@ -38,9 +38,8 @@ con un grito que me pide tu amor
 ```
 
 ### Autor
-Minsterio de musica Ruah.
-[Fuente](https://acordes.lacuerda.net/musica_religiosa/escondete_en_la_mano_del_senior.shtml)
-[Fuente 2](http://testicanzoni.mtv.it/testi-Isaias-Hernandez-Cruz-feat.-Ruajh_32197823/testo-Escondete-en-las-Manos-del-Se%C3%B1or-63823712)
+Grrupo revelación de Cristo, 
+[Fuente](https://ar.napster.com/artist/grupo-revelacion-de-cristo/album/ten-piedad/track/tu-senor-sabes-bien)
 
 ### Origen
 [católico](https://github.com/renovacion-sjb/musica/search?q=cat%C3%B3lico&unscoped_q=cat%C3%B3lico)

@@ -48,9 +48,9 @@ Israel  Gonzalez, MNM México.
 [Fuente](http://www.renovacion.com.mx/home/musicos/)
 
 ### Origen
-[católico](https://github.com/renovacion-sjb/musica/search?q=cat%C3%B3lico&unscoped_q=cat%C3%B3lico)
+[catolico](https://github.com/renovacion-sjb/musica/search?q=catolico&unscoped_q=catolico)
 
 ## Clasificación
-[adoración](https://github.com/renovacion-sjb/musica/search?q=adoraci%C3%B3n&unscoped_q=adoraci%C3%B3n)
+[adoracion](https://github.com/renovacion-sjb/musica/search?q=adoracion&unscoped_q=adoracion)
 
 [Volver](https://github.com/renovacion-sjb/musica/blob/master/index.md)

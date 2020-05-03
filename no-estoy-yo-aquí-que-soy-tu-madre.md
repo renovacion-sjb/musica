@@ -44,10 +44,10 @@ Mike Martínez
 [Fuente](http://www.renovacion.com.mx/home/musicos/)
 
 ### Origen
-[católico](https://github.com/renovacion-sjb/musica/search?q=cat%C3%B3lico&unscoped_q=cat%C3%B3lico)
+[catolico](https://github.com/renovacion-sjb/musica/search?q=catolico&unscoped_q=catolico)
 
 ### Clasificación
-[mariana](https://github.com/renovacion-sjb/musica/search?q=eucar%C3%ADstico&unscoped_q=eucar%C3%ADstico)
+[mariano](https://github.com/renovacion-sjb/musica/search?q=mariano&unscoped_q=mariano)
 
 
 

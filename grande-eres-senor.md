@@ -8,7 +8,7 @@ Mim               DO
 Quiero exaltarte oh Dios
         Sim         DO
 Darte la gloria y honor
-Sim         DO    RE
+       Sim         DO    RE
 La alabanza y adoración
 
 

@@ -51,6 +51,6 @@ Israel  Gonzalez, MNM México.
 [catolico](https://github.com/renovacion-sjb/musica/search?q=catolico&unscoped_q=catolico)
 
 ## Clasificación
-[adoracion](https://github.com/renovacion-sjb/musica/search?q=adoracion&unscoped_q=adoracion)
+[adoración](https://github.com/renovacion-sjb/musica/search?q=adoracion&unscoped_q=adoracion)
 
 [Volver](index.md)

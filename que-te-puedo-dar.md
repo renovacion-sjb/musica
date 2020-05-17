@@ -24,7 +24,7 @@ Música católica.
 [Fuente](https://acordes.lacuerda.net/mus_catolica/que_te_puedo_dar.shtml])
 
 ### Origen
-[católico](https://github.com/renovacion-sjb/musica/search?q=catolico&unscoped_q=catolico)
+[Católico](https://github.com/renovacion-sjb/musica/search?q=catolico&unscoped_q=catolico)
 
 ## Clasificación
 [entrega](https://github.com/renovacion-sjb/musica/search?q=entrega&unscoped_q=entrega),

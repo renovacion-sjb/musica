@@ -1,6 +1,6 @@
 
 # Tu gran amor
-Darwin Enrique Gil. [Fuente](https://www.youtube.com/watch?v=ecJ40C8xWpw])
+Darwin Enrique Gil (Panamá). [Fuente](https://www.youtube.com/watch?v=ecJ40C8xWpw])
 
 ```
 A         D                 A             Bm 
@@ -18,14 +18,12 @@ se manifiesta al sentir la calma
 que tu presencia solo puede dar
 
 
-
             G      Em
 // Y no podría vivir,
             G           Em
 si tu no estás junto a mi
    A
 Señor //
-
 
 
                   D 
@@ -48,10 +46,9 @@ siendo inocente te hiciste culpable
 y por amor viniste a rescatarme
 
 
-
                  G
 // Como no agradecer
-            Em         G
+          Em          A
 tu gran amor y misericordia //
    D
 Jesús

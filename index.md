@@ -4,6 +4,8 @@ Listado de cantos por categoría.
 [Incomparable](incomparable.md)
 
 ## Marianos
+[El Magnificant](el-magnificant.md)
+
 [¿No estoy yo aquí que soy tu madre?](no-estoy-yo-aqui-que-soy-tu-madre.md)
 
 ## Gratitud

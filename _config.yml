@@ -6,6 +6,7 @@ relative_links:
   collections: true
 include:
   - README.md
+  - el-magnificant.md
   - escondete-en-la-mano-del-senor.md
   - grande-eres-senor.md
   - incomparable.md

@@ -1,5 +1,7 @@
 
 # Grande eres Señor
+[Israel  Gonzalez, MNM RCCES México](http://www.renovacion.com.mx/home/musicos/)
+
 ```
 G                 D
 Quiero alabarte Señor
@@ -35,10 +37,6 @@ Como tú (2)
          G          D          C
 No hay nadie comparable a ti Señor 
 ```
-
-### Autor
-Israel  Gonzalez, MNM México.
-[Fuente](http://www.renovacion.com.mx/home/musicos/)
 
 ### Origen
 [catolico](https://github.com/renovacion-sjb/musica/search?q=catolico&unscoped_q=catolico)

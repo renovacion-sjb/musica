@@ -1,5 +1,9 @@
 
 # Escóndete en la mano del señor
+[Ministerio de Música Ruah.](https://acordes.lacuerda.net/musica_religiosa/escondete_en_la_mano_del_senior.shtml)
+Mira [también](http://testicanzoni.mtv.it/testi-Isaias-Hernandez-Cruz-feat.-Ruajh_32197823/testo-Escondete-en-las-Manos-del-Se%C3%B1or-63823712)
+
+
 ```
 
 G                G7          C
@@ -32,11 +36,6 @@ Si yo en tu mano me escondí,
 Quien me separa de ti. (2)
 
 ```
-
-### Autor
-Minsterio de musica Ruah.
-[Fuente](https://acordes.lacuerda.net/musica_religiosa/escondete_en_la_mano_del_senior.shtml)
-[Fuente 2](http://testicanzoni.mtv.it/testi-Isaias-Hernandez-Cruz-feat.-Ruajh_32197823/testo-Escondete-en-las-Manos-del-Se%C3%B1or-63823712)
 
 ### Origen
 [catolico](https://github.com/renovacion-sjb/musica/search?q=catolico&unscoped_q=catolico)

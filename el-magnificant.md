@@ -1,7 +1,6 @@
 
 # El Magnificant
-Martha Reyes, Libro Cantos de Alabanza y Adoración Comunidad Nueva Alianza.
-[Fuente](http://www.comunidadnuevaalianzaslp.net/)
+[Martha Reyes, Libro Cantos de Alabanza y Adoración Comunidad Nueva Alianza](http://www.comunidadnuevaalianzaslp.net/)
 
 ```
 CORO:

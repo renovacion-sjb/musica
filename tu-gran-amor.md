@@ -1,6 +1,6 @@
 
 # Tu gran amor
-Darwin Enrique Gil (Panamá). [Fuente](https://www.youtube.com/watch?v=ecJ40C8xWpw])
+[Darwin Enrique Gil (Panamá)](https://www.youtube.com/watch?v=ecJ40C8xWpw])
 
 ```
 A         D                 A             Bm 

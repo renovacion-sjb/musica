@@ -1,5 +1,7 @@
 
 # Tu eres nuestro Dios
+[Comunidad Nueva Alianza](http://www.comunidadnuevaalianzaslp.net/)
+
 ```
 G          C  D               G
  Recibe Señor,  nuestra oración,
@@ -22,10 +24,6 @@ Tu nuestro rey,
               C   D           G
 Tu nuestra fuerza   y salvación
 ```
-
-### Autor
-Comunidad Nueva Alianza
-[Fuente](http://www.comunidadnuevaalianzaslp.net/)
 
 ### Origen
 [catolico](https://github.com/renovacion-sjb/musica/search?q=catolico&unscoped_q=catolico)

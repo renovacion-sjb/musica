@@ -1,5 +1,7 @@
 
 # ¿No estoy yo aquí que soy tu madre?
+[Mike Martínez, MNM RCCES México](http://www.renovacion.com.mx/home/musicos/)
+
 ```
 C                   D             G
 Mujer hermosa de la gracia del Señor
@@ -36,10 +38,6 @@ María, gracias por tu amor
 C       D               G
 María, gracias por tu amor.
 ```
-
-### Autor
-Mike Martínez
-[Fuente](http://www.renovacion.com.mx/home/musicos/)
 
 ### Origen
 [catolico](https://github.com/renovacion-sjb/musica/search?q=catolico&unscoped_q=catolico)

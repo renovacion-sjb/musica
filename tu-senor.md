@@ -1,5 +1,8 @@
 
 # Tu señor
+[Grupo Revelación de Cristo](https://ar.napster.com/artist/grupo-revelacion-de-cristo/album/ten-piedad/track/tu-senor-sabes-bien)
+
+
 ```
 
 A               E
@@ -36,10 +39,6 @@ con un grito que me pide tu amor
 
 
 ```
-
-### Autor
-Grupo revelación de Cristo, 
-[Fuente](https://ar.napster.com/artist/grupo-revelacion-de-cristo/album/ten-piedad/track/tu-senor-sabes-bien)
 
 ### Origen
 [Católico](https://github.com/renovacion-sjb/musica/search?q=catolico&unscoped_q=catolico)

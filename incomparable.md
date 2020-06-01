@@ -1,7 +1,8 @@
 
 # Incomparable
-```
+[William Sanchez](https://www.ministeriodemusica.net/2017/07/incomparable-canto-de-comunion.html])
 
+```
 D                     Em
 Es un deleite para mí
 A                     F#m
@@ -33,10 +34,6 @@ Que siendo tú el Rey
            G        A            D
 Te hayas quedado en este humilde pan.
 ```
-
-### Autor
-William Sanchez.
-[Fuente](https://www.ministeriodemusica.net/2017/07/incomparable-canto-de-comunion.html])
 
 ### Origen
 [Católico](https://github.com/renovacion-sjb/musica/search?q=catolico&unscoped_q=catolico)

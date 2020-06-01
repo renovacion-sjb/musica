@@ -1,5 +1,7 @@
 
 # Qué te puedo dar
+[Música católica](https://acordes.lacuerda.net/mus_catolica/que_te_puedo_dar.shtml])
+
 ```
   G            D            Em         C
 Qué te puedo dar que no me hayas dado Tú;
@@ -16,10 +18,6 @@ Todo lo que sé, todo lo que soy
  C          D         G  G7
 todo lo que tengo es tuyo.
 ```
-
-### Autor
-Música católica.
-[Fuente](https://acordes.lacuerda.net/mus_catolica/que_te_puedo_dar.shtml])
 
 ### Origen
 [Católico](https://github.com/renovacion-sjb/musica/search?q=catolico&unscoped_q=catolico)

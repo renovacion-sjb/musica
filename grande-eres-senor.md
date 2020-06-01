@@ -1,46 +1,39 @@
 
 # Grande eres Señor
 ```
-
-SOL             RE
+G                 D
 Quiero alabarte Señor
-Mim               DO
+Em                C
 Quiero exaltarte oh Dios
-        Sim         DO
+        Bm          C
 Darte la gloria y honor
-       Sim         DO    RE
+       Bm          C    D
 La alabanza y adoración
 
 
-SOL         RE/FA#
+G             D/F#
 Grande eres Señor
-Mim         DO
+Em          C
 Grande eres tú
 
-        SOL         RE          DO
+          G          D           C
 No hay nadie comparable a ti Señor 
-
 
 Quiero alabarte...
 
-
 Grande eres Señor...
 
-
-      SOL
+        G
 No hay nadie Señor
-      RE/FA#
+       D/F#
 No hay nadie Señor
-      Mim
+       Em
 No hay nadie Señor
-      DO
+     C
 Como tú (2)
 
-
-        SOL         RE          DO
+         G          D          C
 No hay nadie comparable a ti Señor 
-
-
 ```
 
 ### Autor

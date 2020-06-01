@@ -46,7 +46,7 @@ siendo inocente te hiciste culpable
 y por amor viniste a rescatarme
 
 
-                 G
+                 G (Em final)
 // Como no agradecer
           Em          A
 tu gran amor y misericordia //
@@ -56,8 +56,8 @@ Jesús
 
 ### Tono original
 ```
-La Mi Fa#m Do#m Re Sim Mi
-Re Sim Re Sim Mi
+A E F#m C#m D Bm E
+D Bm D Bm E
 ```
 
 ### Origen

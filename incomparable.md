@@ -4,45 +4,33 @@
 
 D                     Em
 Es un deleite para mí
-
 A                     F#m
 Al recibirte en comunión
-
 Bm                   Em A
 Y saborear tu corazón,
-
                             D G D
 Tu cuerpo y sangre mi Jesús.
 
 
-
 D                     Em
 Es un deleite para mí
-
 A                     F#m
 Al recibirte en comunión
-
 Bm                   Em A
 Y saborear tu corazón,
-
                             D  D7
 Tu cuerpo y sangre mi Jesús.
 
 
-
 G                                    A
 Incomparable es tu amor por mí, Jesús,
-
 F#m                                 Bm
 Incomparable es tu gran amor, Señor,
-
 G                      A
 Que no puedo comprender
-
 F#m                     Bm
 Que siendo tú el Rey
-
-          Sol       La            D
+           G        A            D
 Te hayas quedado en este humilde pan.
 ```
 

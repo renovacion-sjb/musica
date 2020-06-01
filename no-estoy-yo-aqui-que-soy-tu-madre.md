@@ -1,7 +1,6 @@
 
 # ¿No estoy yo aquí que soy tu madre?
 ```
-
 C                   D             G
 Mujer hermosa de la gracia del Señor
 C                     D           G
@@ -36,7 +35,6 @@ C       D               G-Em
 María, gracias por tu amor
 C       D               G
 María, gracias por tu amor.
-
 ```
 
 ### Autor

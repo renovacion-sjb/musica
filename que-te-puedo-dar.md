@@ -1,22 +1,20 @@
 
 # Qué te puedo dar
 ```
-
- SOL           RE           MIm        DO
+  G            D            Em         C
 Qué te puedo dar que no me hayas dado Tú;
- SOL           RE            LAm         RE
+  G            D            Am          D
 qué te puedo decir que no me hayas dicho Tú
- SOL               RE       MIm           DO
+  G               D        Em            C
 qué puedo hacer por ti si yo no puedo hacer nada
-      SOL            RE               LAm     RE
+       G             D                Am        D
 si yo no puedo hacer nada si no es por ti, mi Dios
 
 
-DO          RE   SIm        MIm
+ C          D  Bm             Em
 Todo lo que sé, todo lo que soy
-DO          RE      SOL SOL7
+ C          D         G  G7
 todo lo que tengo es tuyo.
-
 ```
 
 ### Autor

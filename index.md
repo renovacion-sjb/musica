@@ -22,4 +22,6 @@ Listado de cantos por categoría.
 ## Adoración
 [Grande eres Señor](grande-eres-senor.md)
 
+[Quiero alabarte (más y más aún)](quiero-alabarte-mas-y-mas-aun.md)
+
 [Tú eres nuestro Dios](tu-eres-nuestro-dios.md)

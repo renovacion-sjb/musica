@@ -17,6 +17,8 @@ Listado de cantos por categoría.
 ## Fe & esperanza
 [Escóndete en la mano del señor](escondete-en-la-mano-del-senor.md)
 
+[La sangre de Cristo tiene poder](la-sangre-de-cristo-tiene-poder.md)
+
 [Tu Señor](tu-senor.md)
 
 ## Adoración

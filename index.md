@@ -14,6 +14,9 @@ Listado de cantos por categoría.
 ## Entrega
 [Qué te puedo dar](que-te-puedo-dar.md)
 
+## Espíritu Santo
+[Ven Espíritu Ven](ven-espiritu-ven.md)
+
 ## Fe & esperanza
 [Escóndete en la mano del señor](escondete-en-la-mano-del-senor.md)
 

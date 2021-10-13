@@ -3,6 +3,9 @@ Listado de cantos por categoría.
 ## Eucarísticos
 [Incomparable](incomparable.md)
 
+## Danza
+[Popurrí No puedo dejar de alabar](popurri-no-puedo-dejar-de-alabar.md)
+
 ## Marianos
 [El Magnificant](el-magnificant.md)
 

@@ -11,6 +11,8 @@ Listado de cantos por categoría.
 
 [¿No estoy yo aquí que soy tu madre?](no-estoy-yo-aqui-que-soy-tu-madre.md)
 
+[Salve Reina de los cielos](salve-reina-de-los-cielos.md)
+
 ## Gratitud
 [Tu gran amor](tu-gran-amor.md)
 
